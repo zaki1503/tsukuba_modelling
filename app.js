@@ -4,9 +4,9 @@ function genPlots() {
     console.log(data)
     scatter(data);
     brandbar(data);
-    doorbar(data);
-    world(data);
-    boxplot(data);
+    //doorbar(data);
+    //world(data);
+    //boxplot(data);
   });
 }
 
