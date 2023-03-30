@@ -1,0 +1,36 @@
+/*You can add styles to format your tooltip here*/
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+    font-size: 18px;
+    background-color: white;
+    border-radius: 5px;
+    pointer-events: none;
+  }
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+
+#brandbar {
+margin: 20px;
+}
+
+h4{
+    font-size: 30px;
+    text-align: center;
+}
+
